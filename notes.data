@@ -1,0 +1,10 @@
+KOALA
+=====
+
+# random ideas
+
+- arbo
+- jq for binary data
+- merge ML data language (think panda) with the approach used in FP (think combinators)
+- allow sampling over non-heterogneous distributions
+  - thru the usage of a language to describe non-deterministic computations
